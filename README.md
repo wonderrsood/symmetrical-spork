@@ -19,7 +19,7 @@ Deploy service with AWS Fargate using terraform
 * AWS Fargate
 * AWS Application Load Balancer
 
-The application load balancer will have an `/service` endpoint and `/__healthcheck__` health check endpoint.
+The application load balancer should have an `/service` endpoint and `/__healthcheck__` health check endpoint.
 
 If something is missing, feel free adding it to a solution.
 

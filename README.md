@@ -47,4 +47,4 @@ TODO: Document how to test the setup
 
 Please do not make pull requests. Fork/Clone the repo instead and work on it.
 
-There is no need to deploy infrastructure to AWS. Just make sure it fully valid terraform infrastructure-as-code setup.
+There is no need to deploy infrastructure to AWS. Just make sure it fully valid terraform infrastructure-as-code setup and it has sufficient level of tests.
